@@ -1,4 +1,9 @@
-<h1 align="center">Hello👋, I'm Sanjay</h1>
+<h1 align="center">
+  Hi
+  <img width="40" height="40" src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" alt="hi" width="28px">, 
+  I'm 
+  <a href="https://portfolio-tawny-three-40.vercel.app/" style="text-decoration: none; color: inherit;">Sanjay Deshmukh</a>
+</h1>
 <h3 align="center">Aspiring Software Developer &lt;/&gt; </h3>
 <img align="right" alt="Coding" width="400" height="300" src="/assests/coding.gif">
 
