@@ -1,3 +1,4 @@
+[![MasterHead](https://user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif)](https://AtharvaKulkarniIT.in)
 <h1 align="center">
   Hi
   <img width="40" height="40" src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" alt="hi" width="28px">, 
