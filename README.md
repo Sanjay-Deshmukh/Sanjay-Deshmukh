@@ -4,31 +4,21 @@
   I'm 
   <a href="https://portfolio-tawny-three-40.vercel.app/" style="text-decoration: none; color: inherit;">Sanjay Deshmukh</a>
 </h1>
-<h3 align="center">Aspiring Software Developer &lt;/&gt; </h3>
-<img align="right" alt="Coding" width="400" height="300" src="/assests/coding.gif">
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ompawaskar&label=Profile%20views&color=0e75b6&style=flat" alt="ompawaskar" /> </p>
-
-- 🌱 I’m currently learning **everything.**
-
-- 👯 I’m looking to collaborate on **innovative project ideas that have the potential to make a meaningful impact on society.**
-
-- 💬 Ask me about **Development**
-
-- 📫 How to reach me **sanjadeshmukh1025@gmail.com**
+🎓 Computer Science (AI-ML) @ Vishwakarma Institute of Technology, Pune  
+🚀 Building robust backends and practical AI systems for real-world use  
+🏆 4x Hackathon winner · IEEE-published researcher · Open-source enthusiast
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sanjay-deshmukh-999229308" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanjay deshmukh" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sanjay-deshmukh10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanjay deshmukh" height="30" width="40" /></a>
 <a href="https://instagram.com/sanjay_d07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sanjay_d07" height="30" width="40" /></a>
 <a href="[https://fb.com/sanjay deshmukh](https://www.facebook.com/profile.php?id=100026739183791](https://www.facebook.com/people/Sanjay-Deshmukh/pfbid035jGXohPitVGsHpvC5jxo462YuwfQddsxajcuWNgkw4fKvqBQViuc1XazqC224G3ol/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sanjay deshmukh" height="30" width="40" /></a>
 </p>
 
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Sanjay-Deshmukh?cardType=level&theme=tokyonight&preferLogin=false)](https://git.io/awesome-stats-card)![Sanjay-Deshmukh's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjay-Deshmukh&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
-
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Sanjay-Deshmukh?cardType=level&theme=tokyonight&preferLogin=false)](https://git.io/awesome-stats-card)!
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
